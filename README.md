@@ -1,6 +1,6 @@
 # vuejs-tutorial
-뷰.js 연습
-
+- 뷰.js 연습
+- 튜토리얼 : https://kr.vuejs.org/v2/guide/index.html
 
 ### Vue.js 데브툴 설치
 - [크롬 확장 프로그램 설치](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
