@@ -20,5 +20,10 @@ $ npm install
 $ npm run dev
 ```
 
-### 튜토리얼 브랜치
- - [기본 문법 예제](https://github.com/lky1001/vuejs-tutorial/tree/example1)
+### 튜토리얼
+ - index1.html : DOM에 데이터 렌더링
+ - index2.html : 속성 바인딩
+ - index3.html : 조건문
+ - index4.html : 반복문
+ - index5.html : 클릭 이벤트
+ - index6.html : 양방향 바인딩
